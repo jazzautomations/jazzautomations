@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecionando...</title>
+    <script>
+        window.location.href = "https://chatgpt.com/g/g-6760ef8ca9788191aff01943bd6fbe91-ze-bot-ibc?mcp_token=eyJwaWQiOjQyODYwMjk3NzAwNTUwNiwic2lkIjo3NTM5MTQ0ODIsImF4IjoiYTZhMTQ3NzkzMDVhYmJmN2M3YzI5Yzk5NmYwMDUwMjgiLCJ0cyI6MTczNDU4MzQwOCwiZXhwIjoxNzM3MDAyNjA4fQ.t22EtmiLMiYGpQPIrVKsNy1Cxl49Nntg1M2TLgiW8tw";
+    </script>
+</head>
+<body>
+    <p>Redirecionando para o navegador externo...</p>
+</body>
+</html>

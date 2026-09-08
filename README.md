@@ -38,7 +38,7 @@ O Vetra foi desenvolvido em equipe. As 100 oportunidades auditadas pertencem ao 
 
 **[secure-code-skill](https://github.com/jazzautomations/secure-code-skill)** — material e verificações para apoiar a revisão de segurança no desenvolvimento com agentes de IA, com atenção a evidências e falsos positivos.
 
-Os demais [repositórios públicos](https://github.com/jazzautomations?tab=repositories&type=source) incluem ferramentas e experimentos. Produtos, projetos de hackathon e protótipos têm contextos diferentes; a apresentação de cada repositório indica seu escopo.
+O Secure Code Skill reúne o código aberto que compartilho aqui. Naima e MasterSinger são apresentados pelos links dos produtos; seus repositórios permanecem privados.
 
 ## Software sob demanda e consultoria
 

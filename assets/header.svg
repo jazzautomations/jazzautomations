@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="330" viewBox="0 0 1280 330" role="img" aria-labelledby="title desc">
+  <title id="title">Felipe Salvego — Jazz Automations</title>
+  <desc id="desc">Desenvolvimento de software, integrações e sistemas de inteligência artificial.</desc>
+  <rect width="1280" height="330" rx="16" fill="#101619"/>
+  <path d="M0 48H1280M0 282H1280" stroke="#26363b"/>
+  <rect x="55" y="82" width="4" height="163" fill="#d2eaa1"/>
+  <g font-family="DejaVu Sans,Arial,sans-serif">
+    <text x="85" y="108" fill="#d2eaa1" font-size="18" letter-spacing="3">JAZZ AUTOMATIONS</text>
+    <text x="81" y="176" fill="#f5f6ef" font-size="57" font-weight="700" letter-spacing="-2">Felipe Salvego</text>
+    <text x="85" y="223" fill="#c1cbd0" font-size="27">Software, integrações e sistemas de IA.</text>
+    <text x="85" y="260" fill="#91a3aa" font-size="17">TypeScript · React · Node.js · Python · PostgreSQL</text>
+  </g>
+  <g stroke="#465c63" stroke-width="2" fill="none">
+    <path d="M904 107h75v56h94v-56h93M904 221h75v-58M1073 163v58h93"/>
+    <rect x="839" y="86" width="65" height="42" rx="7"/>
+    <rect x="839" y="200" width="65" height="42" rx="7"/>
+    <rect x="1166" y="86" width="65" height="42" rx="7"/>
+    <rect x="1166" y="200" width="65" height="42" rx="7"/>
+  </g>
+  <g fill="#d2eaa1">
+    <circle cx="979" cy="163" r="6"/>
+    <circle cx="1073" cy="163" r="6"/>
+  </g>
+</svg>

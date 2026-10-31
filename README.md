@@ -66,7 +66,7 @@
 | [**secure-code-skill**](https://github.com/jazzautomations/secure-code-skill) | revisão de segurança no desenvolvimento com agentes | ![stars](https://img.shields.io/github/stars/jazzautomations/secure-code-skill?style=flat-square&color=1a7f37) |
 | [**video-forge**](https://github.com/jazzautomations/video-forge) | vídeos polidos com código — narração, captions, screen capture | ![stars](https://img.shields.io/github/stars/jazzautomations/video-forge?style=flat-square&color=1a7f37) |
 | [**oneiro**](https://github.com/jazzautomations/oneiro) | conte um sonho, caminhe dentro dele — speech → AI → 3D | ![stars](https://img.shields.io/github/stars/jazzautomations/oneiro?style=flat-square&color=1a7f37) |
-| [**music-games**](https://github.com/jazzautomations/music-games) | 50 jogos de treino musical — ear training, pitch, ritmo | ![stars](https://img.shields.io/github/stars/jazzautomations/music-games?style=flat-square&color=1a7f37) |
+| [**pocketful**](https://github.com/jazzautomations/pocketful) | wallet & payments API (Venmo-style) do Dark Factory | ![stars](https://img.shields.io/github/stars/jazzautomations/pocketful?style=flat-square&color=1a7f37) |
 
 ### `~/contrib --snake`
 

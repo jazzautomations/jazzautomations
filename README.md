@@ -22,8 +22,13 @@
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jazzautomations&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=7ee787&ring_color=7ee787&rank_icon=github&include_all_commits=true&count_private=true">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=jazzautomations&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1a7f37&text_color=1f2328&icon_color=1a7f37&rank_icon=github&include_all_commits=true&count_private=true" alt="github stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jazzautomations&theme=github_dark">
+  <img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jazzautomations&theme=github" alt="profile details"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jazzautomations&theme=github_dark">
+  <img height="168" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jazzautomations&theme=github" alt="stats"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jazzautomations&hide_border=true&background=0D1117&ring=7EE787&fire=7EE787&currStreakLabel=7EE787&sideLabels=c9d1d9&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3">
@@ -31,48 +36,37 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzautomations&layout=donut&langs_count=8&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9">
-  <img height="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzautomations&layout=donut&langs_count=8&hide_border=true&bg_color=ffffff&title_color=1a7f37&text_color=1f2328" alt="top languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jazzautomations&theme=github_dark">
+  <img height="168" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jazzautomations&theme=github" alt="repos per language"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jazzautomations&theme=github_dark">
+  <img height="168" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jazzautomations&theme=github" alt="most commit language"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jazzautomations&bg_color=0d1117&color=7ee787&line=7ee787&point=e6edf3&area=true&area_color=1a7f37&hide_border=true">
-  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=jazzautomations&bg_color=ffffff&color=1a7f37&line=1a7f37&point=1f2328&area=true&area_color=bbf0c8&hide_border=true" alt="activity graph"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jazzautomations&theme=github_dark&utcOffset=-3">
+  <img height="168" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jazzautomations&theme=github&utcOffset=-3" alt="productive time"/>
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=jazzautomations&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4">
+  <img height="168" src="https://github-trophies.vercel.app/?username=jazzautomations&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" alt="trophies"/>
+</picture>
+
+### `~/contrib --heatmap`
+
+<a href="https://github.com/jazzautomations"><img width="94%" src="https://ghchart.rshah.org/40c463/jazzautomations" alt="contribution heatmap"/></a>
 
 ### `~/featured`
 
-<a href="https://github.com/jazzautomations/jazz-cli"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jazzautomations&repo=jazz-cli&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=7ee787">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jazzautomations&repo=jazz-cli&hide_border=true&bg_color=ffffff&title_color=1a7f37&text_color=1f2328&icon_color=1a7f37" alt="jazz-cli"/>
-</picture></a>
-<a href="https://github.com/jazzautomations/oci-agent-skills"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jazzautomations&repo=oci-agent-skills&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=7ee787">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jazzautomations&repo=oci-agent-skills&hide_border=true&bg_color=ffffff&title_color=1a7f37&text_color=1f2328&icon_color=1a7f37" alt="oci-agent-skills"/>
-</picture></a>
-<a href="https://github.com/jazzautomations/mastersinger"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jazzautomations&repo=mastersinger&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=7ee787">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jazzautomations&repo=mastersinger&hide_border=true&bg_color=ffffff&title_color=1a7f37&text_color=1f2328&icon_color=1a7f37" alt="mastersinger"/>
-</picture></a>
-<a href="https://github.com/jazzautomations/secure-code-skill"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jazzautomations&repo=secure-code-skill&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=7ee787">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jazzautomations&repo=secure-code-skill&hide_border=true&bg_color=ffffff&title_color=1a7f37&text_color=1f2328&icon_color=1a7f37" alt="secure-code-skill"/>
-</picture></a>
-<a href="https://github.com/jazzautomations/hackahub"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jazzautomations&repo=hackahub&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=7ee787">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jazzautomations&repo=hackahub&hide_border=true&bg_color=ffffff&title_color=1a7f37&text_color=1f2328&icon_color=1a7f37" alt="hackahub"/>
-</picture></a>
-<a href="https://github.com/jazzautomations/upboost"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jazzautomations&repo=upboost&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=7ee787">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jazzautomations&repo=upboost&hide_border=true&bg_color=ffffff&title_color=1a7f37&text_color=1f2328&icon_color=1a7f37" alt="upboost"/>
-</picture></a>
-
-### `~/trophies`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=jazzautomations&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7">
-  <img width="94%" src="https://github-profile-trophy.vercel.app/?username=jazzautomations&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
-</picture>
+| repo | o que é | stars |
+| :--- | :--- | :---: |
+| [**jazz-cli**](https://github.com/jazzautomations/jazz-cli) | agente de código no terminal, em Go | ![stars](https://img.shields.io/github/stars/jazzautomations/jazz-cli?style=flat-square&color=1a7f37) |
+| [**oci-agent-skills**](https://github.com/jazzautomations/oci-agent-skills) | 37 skills OCI/Oracle + catálogo CLI para agentes | ![stars](https://img.shields.io/github/stars/jazzautomations/oci-agent-skills?style=flat-square&color=1a7f37) |
+| [**secure-code-skill**](https://github.com/jazzautomations/secure-code-skill) | revisão de segurança no desenvolvimento com agentes | ![stars](https://img.shields.io/github/stars/jazzautomations/secure-code-skill?style=flat-square&color=1a7f37) |
+| [**hackahub**](https://github.com/jazzautomations/hackahub) | plataforma da Hack Inova e comunidade de hackathons | ![stars](https://img.shields.io/github/stars/jazzautomations/hackahub?style=flat-square&color=1a7f37) |
+| [**mastersinger**](https://github.com/jazzautomations/mastersinger) | app de prática vocal com feedback de afinação | ![stars](https://img.shields.io/github/stars/jazzautomations/mastersinger?style=flat-square&color=1a7f37) |
+| [**upboost**](https://github.com/jazzautomations/upboost) | CRM + agente de IA no WhatsApp | ![stars](https://img.shields.io/github/stars/jazzautomations/upboost?style=flat-square&color=1a7f37) |
 
 ### `~/contrib --snake`
 

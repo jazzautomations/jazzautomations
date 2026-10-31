@@ -64,9 +64,9 @@
 | [**jazz-cli**](https://github.com/jazzautomations/jazz-cli) | agente de código no terminal, em Go | ![stars](https://img.shields.io/github/stars/jazzautomations/jazz-cli?style=flat-square&color=1a7f37) |
 | [**oci-agent-skills**](https://github.com/jazzautomations/oci-agent-skills) | 37 skills OCI/Oracle + catálogo CLI para agentes | ![stars](https://img.shields.io/github/stars/jazzautomations/oci-agent-skills?style=flat-square&color=1a7f37) |
 | [**secure-code-skill**](https://github.com/jazzautomations/secure-code-skill) | revisão de segurança no desenvolvimento com agentes | ![stars](https://img.shields.io/github/stars/jazzautomations/secure-code-skill?style=flat-square&color=1a7f37) |
-| [**hackahub**](https://github.com/jazzautomations/hackahub) | plataforma da Hack Inova e comunidade de hackathons | ![stars](https://img.shields.io/github/stars/jazzautomations/hackahub?style=flat-square&color=1a7f37) |
-| [**mastersinger**](https://github.com/jazzautomations/mastersinger) | app de prática vocal com feedback de afinação | ![stars](https://img.shields.io/github/stars/jazzautomations/mastersinger?style=flat-square&color=1a7f37) |
-| [**upboost**](https://github.com/jazzautomations/upboost) | CRM + agente de IA no WhatsApp | ![stars](https://img.shields.io/github/stars/jazzautomations/upboost?style=flat-square&color=1a7f37) |
+| [**video-forge**](https://github.com/jazzautomations/video-forge) | vídeos polidos com código — narração, captions, screen capture | ![stars](https://img.shields.io/github/stars/jazzautomations/video-forge?style=flat-square&color=1a7f37) |
+| [**oneiro**](https://github.com/jazzautomations/oneiro) | conte um sonho, caminhe dentro dele — speech → AI → 3D | ![stars](https://img.shields.io/github/stars/jazzautomations/oneiro?style=flat-square&color=1a7f37) |
+| [**music-games**](https://github.com/jazzautomations/music-games) | 50 jogos de treino musical — ear training, pitch, ritmo | ![stars](https://img.shields.io/github/stars/jazzautomations/music-games?style=flat-square&color=1a7f37) |
 
 ### `~/contrib --snake`
 
